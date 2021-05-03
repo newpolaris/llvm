@@ -18,6 +18,7 @@
 #include <array>
 #include <cstdint>
 #include <string>
+#include <stdint.h>
 
 namespace llvm {
 namespace itanium_demangle {
